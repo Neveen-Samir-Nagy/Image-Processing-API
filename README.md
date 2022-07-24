@@ -1,1 +1,1 @@
-# Full-Stack-Web-Devlopment-Udacity-Projects
+# Image-Processing-API
